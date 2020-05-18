@@ -6,7 +6,7 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="sysout" value="System.out.print(&quot;$user$&quot;);" description="" toReformat="false" toShortenFQNames="true">
+  <template name="sysout" value="System.out.print(&quot;$user$&quot;);" toReformat="false" toShortenFQNames="true">
     <variable name="user" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
