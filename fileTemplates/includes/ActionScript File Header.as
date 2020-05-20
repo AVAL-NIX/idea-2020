@@ -1,4 +1,6 @@
 /**
-  * ${USER}
-  * ${DATE}
+  *
+  * @author ${USER}
+  * @date ${DATE}
+  *  
   */
