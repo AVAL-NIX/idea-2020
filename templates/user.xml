@@ -1,13 +1,42 @@
 <templateSet group="user">
-  <template name="add" value="/**&#10;* $user$&#10;* $date$&#10;*/" description="" toReformat="false" toShortenFQNames="true">
+  <template name="abb" value="/**&#10; * $end$&#10; *&#10; * @author $user$&#10; * @date $date$&#10; */" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="user" expression="user()" defaultValue="" alwaysStopAt="true" />
     <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="sysout" value="System.out.print(&quot;$user$&quot;);" description="" toReformat="false" toShortenFQNames="true">
-    <variable name="user" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="main" value="public static void main(String[] args){&#10;    $end$&#10;}" description="public static void main" toReformat="false" toShortenFQNames="true">
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="pi" value="/** $VAR2$ **/&#10;private int $VAR1$;&#10;&#10;$end$" description="private int" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="ps" value="/** $VAR2$ **/&#10;private String $VAR1$;&#10;&#10;$end$" description="public String" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="sysout" value="System.out.println($end$);" description="System.out.print" toReformat="false" toShortenFQNames="true">
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="/**" value="/** $end$ **/" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>

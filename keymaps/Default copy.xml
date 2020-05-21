@@ -3,10 +3,6 @@
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="ChoosePrevSubsequentPropertyValueEditorAction" />
-  <action id="CloseContent">
-    <keyboard-shortcut first-keystroke="ctrl f4" />
-    <keyboard-shortcut first-keystroke="ctrl w" />
-  </action>
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="ctrl space" />
     <keyboard-shortcut first-keystroke="back_quote" />
@@ -24,6 +20,10 @@
     <keyboard-shortcut first-keystroke="end" />
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="home" />
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
   <action id="EditorLookupDown" />
   <action id="EditorLookupUp" />
   <action id="EditorScrollDown">
@@ -32,7 +32,6 @@
   <action id="EditorScrollUp">
     <keyboard-shortcut first-keystroke="shift ctrl up" />
   </action>
-  <action id="EditorSelectWord" />
   <action id="IncrementWindowHeight" />
   <action id="MethodDown" />
   <action id="MethodOverloadSwitchDown" />
