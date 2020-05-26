@@ -1,6 +1,0 @@
-<application>
-  <component name="NotificationConfiguration">
-    <notification groupId="External Executable Critical Failures" displayType="STICKY_BALLOON" shouldLog="false" />
-    <notification groupId="HotSwap" shouldLog="false" />
-  </component>
-</application>
