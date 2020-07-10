@@ -39,6 +39,7 @@
       <entry key="Merge">
         <PlaceSettings>
           <option name="HIGHLIGHTING_LEVEL" value="ADVANCED" />
+          <option name="HIGHLIGHT_POLICY" value="BY_LINE" />
         </PlaceSettings>
       </entry>
     </option>
