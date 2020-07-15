@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="FactorEnum" type="CLASS" />
       <mapping pattern="NineMain" type="CLASS" />
       <mapping pattern="UserController" type="CLASS" />
       <mapping pattern="*.js.flow" type="Flow" />
