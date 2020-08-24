@@ -1,0 +1,16 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="FactorEnum" type="CLASS" />
+      <mapping pattern="NineMain" type="CLASS" />
+      <mapping pattern="UserController" type="CLASS" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="UserCtrl" type="JAVA" />
+      <mapping pattern="User" type="JAVA" />
+      <removed_mapping pattern=".yarnrc" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".yarnrc" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="UserFeignClient.java" approved="true" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
