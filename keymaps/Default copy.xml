@@ -6,10 +6,6 @@
   <action id="CloseActiveTab">
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
-  <action id="CloseContent">
-    <keyboard-shortcut first-keystroke="ctrl f4" />
-    <keyboard-shortcut first-keystroke="ctrl w" />
-  </action>
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="ctrl space" />
     <keyboard-shortcut first-keystroke="back_quote" />
@@ -39,7 +35,6 @@
   <action id="EditorScrollUp">
     <keyboard-shortcut first-keystroke="shift ctrl up" />
   </action>
-  <action id="EditorSelectWord" />
   <action id="IncrementWindowHeight" />
   <action id="MethodDown" />
   <action id="MethodOverloadSwitchDown" />
