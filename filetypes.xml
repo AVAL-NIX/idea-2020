@@ -7,6 +7,7 @@
       <mapping pattern="UserCtrl" type="JAVA" />
       <mapping pattern="User" type="JAVA" />
       <removed_mapping pattern=".yarnrc" approved="true" type="PLAIN_TEXT" />
+      <mapping pattern="select" type="Vue.js" />
       <removed_mapping pattern=".yarnrc" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="UserFeignClient.java" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
