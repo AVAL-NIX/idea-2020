@@ -8,6 +8,7 @@
       <mapping pattern="User" type="JAVA" />
       <mapping pattern="schemeCondition" type="PLAIN_TEXT" />
       <removed_mapping pattern=".yarnrc" approved="true" type="PLAIN_TEXT" />
+      <mapping pattern="listForm" type="Vue.js" />
       <mapping pattern="select" type="Vue.js" />
       <removed_mapping pattern=".yarnrc" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="UserFeignClient.java" approved="true" type="PLAIN_TEXT" />
