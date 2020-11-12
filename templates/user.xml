@@ -1,7 +1,6 @@
 <templateSet group="user">
-  <template name="abb" value="/**&#10; * $end$&#10; *&#10; * @author $user$&#10; * @date $date$&#10; */" description="" toReformat="false" toShortenFQNames="true">
+  <template name="abb" value="/**&#10; * $end$&#10; *&#10; * @author zhengxin&#10; * @date $date$&#10; */" description="" toReformat="false" toShortenFQNames="true">
     <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="user" expression="user()" defaultValue="" alwaysStopAt="true" />
     <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="OTHER" value="true" />
