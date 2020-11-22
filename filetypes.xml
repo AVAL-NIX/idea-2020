@@ -7,6 +7,7 @@
       <mapping pattern="UserCtrl" type="JAVA" />
       <mapping pattern="User" type="JAVA" />
       <mapping pattern="schemeCondition" type="PLAIN_TEXT" />
+      <mapping ext="lock" type="PLAIN_TEXT" />
       <removed_mapping pattern=".yarnrc" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".yarnrc" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="UserFeignClient.java" approved="true" type="PLAIN_TEXT" />
