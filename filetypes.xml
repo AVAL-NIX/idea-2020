@@ -1,18 +1,19 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="FactorEnum" type="CLASS" />
       <mapping pattern="NineMain" type="CLASS" />
       <mapping pattern="UserController" type="CLASS" />
+      <mapping pattern="FactorEnum" type="CLASS" />
       <mapping pattern="UserCtrl" type="JAVA" />
       <mapping pattern="User" type="JAVA" />
       <mapping pattern="schemeCondition" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <removed_mapping pattern=".yarnrc" approved="true" type="PLAIN_TEXT" />
+      <mapping pattern="listForm" type="Vue.js" />
+      <mapping pattern="back" type="Vue.js" />
+      <mapping pattern="select" type="Vue.js" />
       <removed_mapping pattern=".yarnrc" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="UserFeignClient.java" approved="true" type="PLAIN_TEXT" />
-      <mapping pattern="listForm" type="Vue.js" />
-      <mapping pattern="select" type="Vue.js" />
     </extensionMap>
   </component>
 </application>
