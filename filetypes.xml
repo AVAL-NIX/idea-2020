@@ -10,6 +10,7 @@
       <mapping pattern="schemeCondition" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <removed_mapping pattern=".yarnrc" approved="true" type="PLAIN_TEXT" />
+      <mapping pattern="comprehensive" type="TypeScript" />
       <mapping pattern="listForm" type="Vue.js" />
       <mapping pattern="back" type="Vue.js" />
       <mapping pattern="select" type="Vue.js" />
