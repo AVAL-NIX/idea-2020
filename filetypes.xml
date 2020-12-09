@@ -6,11 +6,14 @@
       <mapping pattern="UserController" type="CLASS" />
       <mapping pattern="UserCtrl" type="JAVA" />
       <mapping pattern="User" type="JAVA" />
+      <mapping pattern=".env.test" type="PLAIN_TEXT" />
       <mapping pattern="schemeCondition" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <removed_mapping pattern=".yarnrc" approved="true" type="PLAIN_TEXT" />
+      <mapping pattern="comprehensive" type="TypeScript" />
       <removed_mapping pattern=".yarnrc" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="UserFeignClient.java" approved="true" type="PLAIN_TEXT" />
+      <mapping pattern="back" type="Vue.js" />
       <mapping pattern="listForm" type="Vue.js" />
       <mapping pattern="select" type="Vue.js" />
     </extensionMap>
