@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="项目 'mpmt.common.platform.parent'" />
+    <option name="defaultScopeName" value="项目 'mpmt.common.platform.parent'" />
+    <option name="SEARCH_SCOPE" value="项目 'mpmt.common.platform.parent'" />
     <mask>*.html</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
