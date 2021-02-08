@@ -1,3 +1,10 @@
 <code_scheme name="Default">
   <option name="AUTODETECT_INDENTS" value="false" />
+  <option name="INSERT_INNER_CLASS_IMPORTS" value="true" />
+  <option name="PACKAGES_TO_USE_IMPORT_ON_DEMAND">
+    <value />
+  </option>
+  <codeStyleSettings language="JAVA">
+    <option name="KEEP_CONTROL_STATEMENT_IN_ONE_LINE" value="false" />
+  </codeStyleSettings>
 </code_scheme>
