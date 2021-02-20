@@ -10,6 +10,7 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".env.test" type="PLAIN_TEXT" />
       <mapping pattern="schemeCondition" type="PLAIN_TEXT" />
+      <mapping ext="proper" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <removed_mapping pattern=".yarnrc" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="comprehensive" type="TypeScript" />
