@@ -10,6 +10,10 @@
           <option name="url" value="http://218.17.161.71:8189" />
           <option name="userName" value="xin.zheng@lolaage.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://172.18.1.168:7777" />
+          <option name="userName" value="xin.zheng@lolaage.com" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
