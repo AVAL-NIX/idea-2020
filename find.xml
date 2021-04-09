@@ -4,12 +4,12 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
-    <mask>*.java</mask>
     <mask>*.jsp</mask>
     <mask>*.css</mask>
     <mask>*.js</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.vue</mask>
+    <mask>*.java</mask>
   </component>
 </application>
