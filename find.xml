@@ -10,7 +10,7 @@
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.ftl</mask>
-    <mask>*.vue</mask>
     <mask>*.js</mask>
+    <mask>*.vue</mask>
   </component>
 </application>
